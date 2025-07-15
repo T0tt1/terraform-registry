@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "0.1.15",
+      "protocols": ["5.0"],
+      "platforms": [
+        { "os": "linux", "arch": "amd64" },
+        { "os": "darwin", "arch": "arm64" }
+      ]
+    }
+  ]
+}
