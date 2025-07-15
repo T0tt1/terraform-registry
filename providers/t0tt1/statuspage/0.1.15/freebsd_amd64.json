@@ -1,0 +1,10 @@
+{
+  "protocols": ["5.0"],
+  "os": "freebsd",
+  "arch": "amd64",
+  "filename": "terraform-provider-statuspage_0.1.15_freebsd_amd64.zip",
+  "download_url": "https://github.com/t0tt1/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_freebsd_amd64.zip",
+  "shasum": "ae8bc65222997200ce5850a57222f11c97241c805aedeb57510a739302ed94d1",
+  "shasums_signature_url": "",
+  "signing_keys": {}
+}

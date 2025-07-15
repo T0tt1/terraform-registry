@@ -3,8 +3,8 @@
   "os": "linux",
   "arch": "amd64",
   "filename": "terraform-provider-statuspage_0.1.15_linux_amd64.zip",
-  "download_url": "https://github.com/yourname/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_linux_amd64.zip",
-  "shasum": "YOUR_SHA256_SUM",
+  "download_url": "https://github.com/t0tt1/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_linux_amd64.zip",
+  "shasum": "d3cd05a5d8f95290c28032c820ea0d8d51c0719effd1d67526ef123a62e9581d",
   "shasums_signature_url": "",
   "signing_keys": {}
 }

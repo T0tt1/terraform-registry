@@ -1,0 +1,10 @@
+{
+  "protocols": ["5.0"],
+  "os": "windows",
+  "arch": "amd64",
+  "filename": "terraform-provider-statuspage_0.1.15_windows_amd64.zip",
+  "download_url": "https://github.com/t0tt1/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_windows_amd64.zip",
+  "shasum": "66dc9ac4027f79a99e995e1a14a6ef88cb677127f3291ff00a6f47db77c24c41",
+  "shasums_signature_url": "",
+  "signing_keys": {}
+}

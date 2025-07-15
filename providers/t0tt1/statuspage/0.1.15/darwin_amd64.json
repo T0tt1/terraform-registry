@@ -1,0 +1,10 @@
+{
+  "protocols": ["5.0"],
+  "os": "darwin",
+  "arch": "amd64",
+  "filename": "terraform-provider-statuspage_0.1.15_darwin_amd64.zip",
+  "download_url": "https://github.com/t0tt1/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_darwin_amd64.zip",
+  "shasum": "a934974c6eb0e6c5c44c23be1f012a85da5452e0c7f9e4155a68a63f7db7e418",
+  "shasums_signature_url": "",
+  "signing_keys": {}
+}

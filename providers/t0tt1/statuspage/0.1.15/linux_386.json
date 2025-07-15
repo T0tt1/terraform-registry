@@ -1,0 +1,10 @@
+{
+  "protocols": ["5.0"],
+  "os": "linux",
+  "arch": "386",
+  "filename": "terraform-provider-statuspage_0.1.15_linux_386.zip",
+  "download_url": "https://github.com/t0tt1/terraform-provider-statuspage/releases/download/v0.1.15/terraform-provider-statuspage_0.1.15_linux_386.zip",
+  "shasum": "d16502cce073d68b77fa5cd53f85a83f1f3cee8f39df5ae6e98fcc56199a11d3",
+  "shasums_signature_url": "",
+  "signing_keys": {}
+}
